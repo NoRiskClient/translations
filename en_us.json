@@ -240,6 +240,13 @@
   "norisk.clock.tooltip.ss": "Second in minute",
   "norisk.clock.tooltip.more_info": "More Info: Google 'Java SimpleDateFormat'",
 
+  "norisk.tebex.coin-purchase": "You received %s coins",
+  "norisk.cosmetics.outfit.toast.cosmeticsettings.saved": "Saved Cosmetic Settings.",
+  "nrc.friends.stop_world": "Stop World",
+  "nrc.ui.modules.value.showServer":"Show Server",
+  "nrc.ui.modules.value.showIpAddress":"Show IP",
+  "nrc.ui.modules.value.showPort":"Show Port",
+
   "mcreal.browse.label.friends": "My Friends",
   "mcreal.browse.label.discovery": "Discovery",
   "mcreal.browse.label.nothing": "Nothing to see :(",
