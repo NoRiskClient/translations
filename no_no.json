@@ -247,7 +247,7 @@
     "mcreal.report.label.inappropriate_for_minors": "Uegnet for mindreårige",
     "mcreal.report.label.other": "Andre",
     "mcreal.pin.request": "Vil du pinne bidraget ditt i dag?",
-    "mcreal.pin.delete_request": "Vil du slette det pinnede innlegget ditt?",
+    "mcreal.pin.delete_request": "Vil du slette det pinnede bidraget ditt?",
     "mcreal.browse.button.reply": "Svar",
     "norisk.ui.confirm": "Bekreft",
 
@@ -261,6 +261,6 @@
     "mcreal.upload.show_others": "[Vis andre]",
     "mcreal.upload.label.title": "Tittel",
     "mcreal.upload.label.server_ip": "Server-IP",
-    "mcreal.upload.label.friends_only": "Bare Freunde",
+    "mcreal.upload.label.friends_only": "Bare venner",
     "mcreal.upload.label.upload": "Last opp"
 }
