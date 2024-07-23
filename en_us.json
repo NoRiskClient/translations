@@ -1,4 +1,7 @@
 {
+  "category.norisk.general": "NoRisk Client",
+  "norisk.ui.modules": "Open Modules",
+  
   "nrc.ui.modules.value.scale": "Scale: %s",
   "nrc.ui.modules.value.background": "Background",
   "nrc.ui.modules.value.multiColor": "Multi Color",
