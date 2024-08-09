@@ -188,6 +188,7 @@
   "nrc.ui.modules.value.friendNotifications" : "Freundesbenachrichtigungen",
   "nrc.ui.modules.value.gap" : "Lücke",
   "nrc.ui.modules.value.headerColor" : "Farbe der Kopfzeile",
+  "nrc.ui.modules.value.height": "Höhe",
   "nrc.ui.modules.value.hideChat" : "Chat verbergen",
   "nrc.ui.modules.value.hideIncompatibles" : "Inkompatible verbergen",
   "nrc.ui.modules.value.hidePumpkinOverlay" : "Kürbis-Overlay verbergen",
