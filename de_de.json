@@ -273,5 +273,8 @@
   "nrc.ui.modules.value.width" : "Breite",
   "nrc.ui.modules.value.zoomInDuration" : "Einzoom-Dauer",
   "nrc.ui.modules.value.zoomKey" : "Zoom-Taste",
-  "nrc.ui.modules.value.zoomOutDuration" : "Auszoom-Dauer"
+  "nrc.ui.modules.value.zoomOutDuration" : "Auszoom-Dauer",
+  "nrc.ui.modules.value.radius" "Radius",
+  "nrc.ui.modules.value.static" : "Statisch"
+  
 }
