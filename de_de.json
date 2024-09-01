@@ -273,5 +273,19 @@
   "nrc.ui.modules.value.width" : "Breite",
   "nrc.ui.modules.value.zoomInDuration" : "Einzoom-Dauer",
   "nrc.ui.modules.value.zoomKey" : "Zoom-Taste",
-  "nrc.ui.modules.value.zoomOutDuration" : "Auszoom-Dauer"
+  "nrc.ui.modules.value.zoomOutDuration" : "Auszoom-Dauer",
+
+  "collect_any_powerups": "Sammle eines dieser %s Powerups",
+  "collect_coins_on_train": "Sammle %s Münzen auf dem Zug",
+  "collect_coins_with_magnet": "Sammle %s Münzen mit einem Magneten",
+  "dodge_moving_train": "Weiche %s fahrenden Zügen aus",
+  "dodge_standing_train": "Weiche %s stehenden Zügen aus",
+  "floor_is_lava_tick": "Überlebe den Boden ist Lava für %s Ticks",
+  "floor_is_lava_total": "Überlebe den Boden ist Lava insgesamt für %s Ticks",
+  "score_goal_without_jump": "Erreiche %s Punkte ohne zu springen",
+  "score_goal_without_powerups": "Erreiche %s Punkte ohne Powerups",
+  "score_goal_without_sneak": "Erreiche %s Punkte ohne zu schleichen",
+  "keep_powerup_for_ticks": "Halte ein Powerup für %s Ticks aktiv",
+  "walk_on_train_total": "Gehe insgesamt %s Ticks auf dem Zug",
+  "collect_powerups": "Sammle %s Powerups"
 }

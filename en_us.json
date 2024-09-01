@@ -275,5 +275,19 @@
   "nrc.ui.modules.value.width" : "Width",
   "nrc.ui.modules.value.zoomInDuration" : "Zoom In Duration",
   "nrc.ui.modules.value.zoomKey" : "Zoom Key",
-  "nrc.ui.modules.value.zoomOutDuration" : "Zoom Out Duration"
+  "nrc.ui.modules.value.zoomOutDuration" : "Zoom Out Duration",
+
+  "collect_any_powerups": "Collect any of these %s powerups",
+  "collect_coins_on_train": "Collect %s coins while on the train",
+  "collect_coins_with_magnet": "Collect %s coins with a magnet",
+  "dodge_moving_train": "Dodge %s moving trains",
+  "dodge_standing_train": "Dodge %s standing trains",
+  "floor_is_lava_tick": "Survive the floor is lava for %s ticks",
+  "floor_is_lava_total": "Survive the floor is lava for a total of %s ticks",
+  "score_goal_without_jump": "Score %s points without jumping",
+  "score_goal_without_powerups": "Score %s points without using powerups",
+  "score_goal_without_sneak": "Score %s points without sneaking",
+  "keep_powerup_for_ticks": "Keep a powerup active for %s ticks",
+  "walk_on_train_total": "Walk on the train for a total of %s ticks",
+  "collect_powerups": "Collect %s powerups"
 }
