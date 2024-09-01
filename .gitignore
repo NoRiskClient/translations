@@ -1,0 +1,8 @@
+run
+.idea
+.gradle
+build
+.env
+.DS_Store
+out
+.kotlin
