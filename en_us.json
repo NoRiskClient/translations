@@ -13,7 +13,7 @@
   "mcreal.browse.label.unlock" : "Upload to view others",
   "mcreal.browse.label.your_post" : "Your McReal",
   "mcreal.browse.label.your_turn" : "Click here to be the first one to post a McReal!",
-  "mcreal.notification" : "McReal Time",
+  "mcreal.notification" : "Time %s for a McReal!",
   "mcreal.pin.delete_request" : "Do you want to delete your pinned post?",
   "mcreal.pin.request" : "Do you want to pin your todays post?",
   "mcreal.post.delete.error" : "Error Deleting Your McReal %s",
@@ -38,6 +38,7 @@
   "mcreal.label.pinned_posts": "Pinned Posts",
   "mcreal.label.last_posts": "Last %s Posts",
   "mcreal.tooltip.delete_pin_post": "Delete pinned post",
+  "mcreal.tooltip.friends_only": "Friends Only",
   "mcreal.label.title.pinned_posts": "Do you want to pin your todays post?",
   "mcreal.label.subtitle.pinned_posts": "Caution! Everyone is able to see this post",
   "mcreal.label.subtitle.delete_pin_post": "Attention! Your screenshot can't be restored",
@@ -317,5 +318,7 @@
   "nrc.plus.advantage.custom_name_tag_style": "CUSTOM NAMETAG STYLE",
   "nrc.plus.advantage.private_discord_access": "PRIVATE DISCORD ACCESS",
   "nrc.plus.advantage.exclusive_icon": "EXCLUSIVE ICON",
-  "nrc.plus.advantage.discount_on_all_items": "10% DISCOUNT"
+  "nrc.plus.advantage.discount_on_all_items": "10% DISCOUNT",
+
+  "nrc.friends.wheel.action.view_profile": "View Profile"
 }
