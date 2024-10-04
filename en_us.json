@@ -15,7 +15,7 @@
   "mcreal.browse.label.your_turn" : "Click here to be the first one to post a McReal!",
   "mcreal.notification" : "Time %s for a McReal!",
   "mcreal.pin.delete_request" : "Do you want to delete your pinned post?",
-  "mcreal.pin.request" : "Do you want to pin your todays post?",
+  "mcreal.pin.request" : "Do you want to pin today's post?",
   "mcreal.post.delete.error" : "Error Deleting Your McReal %s",
   "mcreal.post.delete.request" : "Are You Sure to Delete Your Post?",
   "mcreal.post.delete.request_information" : "You can't post twice a day",
