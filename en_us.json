@@ -321,5 +321,15 @@
   "nrc.plus.advantage.exclusive_icon": "EXCLUSIVE ICON",
   "nrc.plus.advantage.discount_on_all_items": "10% DISCOUNT",
 
-  "nrc.friends.wheel.action.view_profile": "View Profile"
+  "nrc.friends.wheel.action.view_profile": "View Profile",
+
+  "nrc.notifications.button.notification_unread": "Notifications",
+  "nrc.notifications.button.notification_read": "History",
+  "nrc.notifications.label.creation_timestamp": "%s ago",
+  "nrc.notifications.label.ShopItemExpiredNotification": "%s expired",
+  "nrc.notifications.label.ShopItemBoughtNotification": "%s bought",
+  "nrc.notifications.label.ShopItemExpiringSoonNotification": "%s soon",
+  "nrc.notifications.label.ShopGiftReceivedNotification": "%s received",
+  "nrc.notifications.label.McRealPunishmentNotification": "%s reason %s duration",
+  "nrc.notifications.label.McRealPunishmentRevokedNotification": "McRealPunishmentRevokedNotification revoked"
 }
