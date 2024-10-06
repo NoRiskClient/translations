@@ -331,5 +331,7 @@
   "nrc.notifications.label.ShopItemExpiringSoonNotification": "%s soon",
   "nrc.notifications.label.ShopGiftReceivedNotification": "%s received",
   "nrc.notifications.label.McRealPunishmentNotification": "%s reason %s duration",
-  "nrc.notifications.label.McRealPunishmentRevokedNotification": "McRealPunishmentRevokedNotification revoked"
+  "nrc.notifications.label.McRealPunishmentRevokedNotification": "McRealPunishmentRevokedNotification revoked",
+
+  "nrc.shop.label.plus_shop_item": "%s DAYS NRC+"
 }
