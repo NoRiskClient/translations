@@ -307,23 +307,23 @@
   "nrc.quest.description.collect_coins_with_magnet": "Collect %s coins with a magnet",
   "nrc.quest.description.dodge_moving_train": "Dodge %s moving trains",
   "nrc.quest.description.dodge_standing_train": "Dodge %s standing trains",
-  "nrc.quest.description.floor_is_lava_tick": "Survive the floor is lava for %s ticks",
-  "nrc.quest.description.floor_is_lava_total": "Survive the floor is lava for a total of %s ticks",
-  "nrc.quest.description.score_goal_without_jump": "Score %s points without jumping",
-  "nrc.quest.description.score_goal_without_powerups": "Score %s points without using powerups",
-  "nrc.quest.description.score_goal_without_sneak": "Score %s points without sneaking",
-  "nrc.quest.description.keep_powerup_for_ticks": "Keep a powerup active for %s ticks",
-  "nrc.quest.description.walk_on_train_total": "Walk on the train for a total of %s ticks",
+  "nrc.quest.description.floor_is_lava_tick": "Survive teh hot floor 4 %s ticks",
+  "nrc.quest.description.floor_is_lava_total": "Survive teh hot floor 4 %s ticks total",
+  "nrc.quest.description.score_goal_without_jump": "Scorr %s points not jumpin",
+  "nrc.quest.description.score_goal_without_powerups": "Mehk %s points not usin powerjuiz",
+  "nrc.quest.description.score_goal_without_sneak": "Mehk %s points not sneeking",
+  "nrc.quest.description.keep_powerup_for_ticks": "Keep powerjuice actvi 4 %s ticks",
+  "nrc.quest.description.walk_on_train_total": "Wolk on teh train 4 %s ticks total",
   "nrc.quest.description.collect_powerups": "Collect %s powerups",
 
-  "nrc.plus.advantage.custom_name_tag_style": "CUSTOM NAMETAG STYLE",
-  "nrc.plus.advantage.private_discord_access": "PRIVATE DISCORD ACCESS",
-  "nrc.plus.advantage.exclusive_icon": "EXCLUSIVE ICON",
-  "nrc.plus.advantage.discount_on_all_items": "10% DISCOUNT",
+  "nrc.plus.advantage.custom_name_tag_style": "UR OWN KITTEHTAG STYLEZ",
+  "nrc.plus.advantage.private_discord_access": "PRVIATE DC THINGY",
+  "nrc.plus.advantage.exclusive_icon": "EXCLSIUIV THINGY",
+  "nrc.plus.advantage.discount_on_all_items": "10 PURRCENT LESS",
 
-  "nrc.friends.wheel.action.view_profile": "View Profile",
+  "nrc.friends.wheel.action.view_profile": "Viw Proflie",
 
-  "nrc.notifications.button.notification_unread": "Notifications",
+  "nrc.notifications.button.notification_unread": "Annoyrs",
   "nrc.notifications.button.notification_read": "History",
   "nrc.notifications.label.creation_timestamp": "%s ago",
   "nrc.notifications.label.ShopItemExpiredNotification": "%s expired",
@@ -331,7 +331,7 @@
   "nrc.notifications.label.ShopItemExpiringSoonNotification": "%s soon",
   "nrc.notifications.label.ShopGiftReceivedNotification": "%s received",
   "nrc.notifications.label.McRealPunishmentNotification": "%s reason %s duration",
-  "nrc.notifications.label.McRealPunishmentRevokedNotification": "McRealPunishmentRevokedNotification revoked",
+  "nrc.notifications.label.McRealPunishmentRevokedNotification": "MewzRealPunishmentRevokedNotification revoked",
 
-  "nrc.shop.label.plus_shop_item": "%s DAYS NRC+"
+  "nrc.shop.label.plus_shop_item": "%s DAYS NRK+"
 }
