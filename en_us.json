@@ -131,7 +131,7 @@
   "nrc.friends.errors.already_friends_with": "Already friends with %s",
   "nrc.friends.errors.cant_be_friends_with_yourself": "You can't be friends with yourself",
   "nrc.friends.errors.friend_not_found": "Friend not found",
-  "nrc.friends.errors.max_ping_size": "You´re pinging too much!",
+  "nrc.friends.errors.max_ping_size": "You're pinging too much!",
   "nrc.friends.errors.request_pending": "Request to %s is pending",
   "nrc.friends.host_world": "Host World",
   "nrc.friends.host.gamemode": "Gamemode",
