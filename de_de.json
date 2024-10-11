@@ -151,6 +151,8 @@
   "nrc.friends.wheel.ui.rename_action" : "Umbenennen...",
   "nrc.friends.wheel.ui.rename_command" : "Umbenennen...",
   "nrc.friends.wheel.ui.tooltip.command_action" : "Folgender Befehl %s wird ausgeführt",
+  "nrc.friends.wheel.ui.edit_command": "Edit Command",
+  "nrc.friends.wheel.ui.rename_action": "Command Umbenennen",
   "nrc.generic.errors.cooldown" : "Chill Bruder... für %s Sekunden",
   "nrc.generic.errors.no_valid_uuid" : "Keine gültige UUID.",
   "nrc.generic.errors.user_not_found" : "Benutzer wurde nicht gefunden.",
