@@ -177,6 +177,8 @@
   "nrc.friends.wheel.ui.rename_action" : "Renaming...",
   "nrc.friends.wheel.ui.rename_command" : "Renaming...",
   "nrc.friends.wheel.ui.tooltip.command_action" : "Following Command %s will be executed",
+  "nrc.friends.wheel.ui.edit_command": "Edit Command",
+  "nrc.friends.wheel.ui.rename_action": "Rename Command",
   "nrc.generic.error.cooldown" : "Chill man... for %s seconds",
   "nrc.generic.error.no_valid_uuid" : "No Valid UUID.",
   "nrc.generic.error.user_not_found" : "User was not found.",
