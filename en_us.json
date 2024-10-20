@@ -37,6 +37,7 @@
   "mcreal.report.success" : "Thanks for your help!",
   "mcreal.saved" : "McReal has been saved",
   "mcreal.label.pinned_posts": "Pinned Posts",
+  "mcreal.label.no_post": "No Post",
   "mcreal.label.last_posts": "Last %s Posts",
   "mcreal.tooltip.delete_pin_post": "Delete pinned post",
   "mcreal.tooltip.friends_only": "Friends Only",
