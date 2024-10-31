@@ -186,6 +186,7 @@
   "nrc.generic.errors.cooldown" : "Chill man... for %s seconds",
   "nrc.generic.errors.no_valid_uuid" : "No Valid UUID.",
   "nrc.generic.errors.user_not_found" : "User was not found.",
+  "nrc.ui.carousel.search_label": "type to search...",
   "nrc.ui.modules.button.tooltip.apply_all" : "Applies the changes globally",
   "nrc.ui.modules.value.apiKey" : "API Key",
   "nrc.ui.modules.value.transparentPlayers" : "Transparent Players",
