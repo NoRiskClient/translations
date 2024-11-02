@@ -212,7 +212,7 @@
   "nrc.ui.modules.value.easing" : "Easing",
   "nrc.ui.modules.value.effect" : "Effect",
   "nrc.ui.modules.value.enableScrolling" : "Enable Scrolling",
-  "nrc.ui.modules.value.f5" : "Third Perspective",
+  "nrc.ui.modules.value.f5" : "Show in Third Perspective",
   "nrc.ui.modules.value.fogEndDistance" : "Fog End Distance",
   "nrc.ui.modules.value.fontColor" : "Font Color",
   "nrc.ui.modules.value.format" : "Format",
