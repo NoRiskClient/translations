@@ -84,6 +84,7 @@
   "norisk.ui.cancel" : "Cancel",
   "norisk.ui.confirm" : "Confirm",
   "norisk.ui.modules": "Open Modules",
+  "nrc.error.minigames.cannot_invite_self": "You cannot invite yourself to minigames!"
   "nrc.cosmetics.enum.filter.all" : "ALL",
   "nrc.cosmetics.enum.filter.alphabet" : "ALPHABET",
   "nrc.cosmetics.enum.filter.owned" : "OWNED",
