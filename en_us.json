@@ -84,7 +84,7 @@
   "norisk.ui.cancel" : "Cancel",
   "norisk.ui.confirm" : "Confirm",
   "norisk.ui.modules": "Open Modules",
-  "nrc.error.minigames.cannot_invite_self": "You cannot invite yourself to minigames!"
+  "nrc.error.minigames.cannot_invite_self": "You cannot invite yourself to a minigame!"
   "nrc.cosmetics.enum.filter.all" : "ALL",
   "nrc.cosmetics.enum.filter.alphabet" : "ALPHABET",
   "nrc.cosmetics.enum.filter.owned" : "OWNED",
@@ -178,6 +178,7 @@
   "nrc.friends.wheel.action.remove_friend" : "Remove Friend",
   "nrc.friends.wheel.action.settings" : "Settings",
   "nrc.friends.wheel.ui.add_action" : "Add Action...",
+  "nrc.friends.wheel.ui.edit_command" : "Editing Command..."
   "nrc.friends.wheel.ui.rename_action" : "Renaming...",
   "nrc.friends.wheel.ui.rename_command" : "Renaming...",
   "nrc.friends.wheel.ui.tooltip.command_action" : "Following Command %s will be executed",
