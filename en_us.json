@@ -150,6 +150,7 @@
   "nrc.friends.host_world" : "Host World",
   "nrc.friends.host.world_options" : "World Options",
   "nrc.friends.host.nrc_options" : "NoRiskClient Options",
+  "nrc.friends.host.force_mods": "Force Mods",
   "nrc.friends.notification.friend_offline" : "%s is now offline",
   "nrc.friends.notification.friend_online" : "%s is now online",
   "nrc.friends.offline.days" : "Offline for %s days",
