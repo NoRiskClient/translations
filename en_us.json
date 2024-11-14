@@ -143,6 +143,7 @@
   "nrc.friends.host.hosting_success_friends_invite_info_click" : "[Click]",
   "nrc.friends.host.hosting_success_friends_invite_info_copy_url" : "[Copy URL]",
   "nrc.friends.host.invite_friend" : "Invite to world",
+  "nrc.friends.host.uninvite_friend" : "Cancel Invitation",
   "nrc.friends.host.invite_request": "You have been invited into a world by %s",
   "nrc.friends.host.invite_success" : "You invited %s to your world",
   "nrc.friends.host.stop_world" : "Close World",
