@@ -137,6 +137,7 @@
   "nrc.friends.errors.max_ping_size" : "You´re pinging too much!",
   "nrc.friends.errors.request_pending" : "Request to %s is pending",
   "nrc.friends.host.gamemode" : "Gamemode",
+  "lanServer.slots": "Slots",
   "nrc.friends.host.hosting_error" : "Error hosting world, please try again :/",
   "nrc.friends.host.hosting_success" : "Successfully hosted world on port %s",
   "nrc.friends.host.hosting_success_friends_invite_info" : "You can now invite friends",
