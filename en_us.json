@@ -64,6 +64,7 @@
   "norisk.clock.tooltip.ss" : "Second in minute",
   "norisk.clock.tooltip.yyyy" : "Year",
   "norisk.cosmetics.outfit.toast.cosmeticsettings.saved" : "Saved Cosmetic Settings.",
+  "norisk.cosmetics.gift.toast.success_other": "You were gifted %s",
   "norisk.generic.ui.cancel" : "CANCEL",
   "norisk.generic.ui.confirm" : "OKAY!",
   "norisk.screenshot.action.copy" : "[Copy]",
