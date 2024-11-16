@@ -65,6 +65,8 @@
   "norisk.clock.tooltip.yyyy" : "Year",
   "norisk.cosmetics.outfit.toast.cosmeticsettings.saved" : "Saved Cosmetic Settings.",
   "norisk.cosmetics.gift.toast.success_other": "You were gifted %s",
+  "nrc.friends.host.tooltip.friend_invite": "Opens Friends menue",
+  "nrc.friends.host.tooltip.domain_copy": "Copies domain to clipboard",
   "norisk.generic.ui.cancel" : "CANCEL",
   "norisk.generic.ui.confirm" : "OKAY!",
   "norisk.screenshot.action.copy" : "[Copy]",
