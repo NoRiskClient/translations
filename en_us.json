@@ -320,6 +320,7 @@
   "nrc.ui.modules.value.zoomOutDuration" : "Zoom Out Duration",
   "nrc.ui.modules.value.renderCustomNameTag" : "Render Name Tag",
   "nrc.ui.modules.value.showTips" : "Show Tips",
+  "nrc.ui.modules.value.hideOtherCosmetics" : "Hide Other Cosmetics",
 
   "nrc.quest.description.collect_any_powerups": "Collect any of these %s powerups",
   "nrc.quest.description.collect_coins_on_train": "Collect %s coins while on the train",
