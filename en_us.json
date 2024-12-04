@@ -103,6 +103,7 @@
   "nrc.cosmetics.enum.skinaddoption.url" : "\uD83D\uDD17 URL",
   "nrc.cosmetics.enum.skinaddoption.username" : "\uD83D\uDE0A USER",
   "nrc.cosmetics.ui.add_skins" : "＋ ADD SKIN",
+  "nrc.cosmetics.ui.checkout" : "CHECKOUT",
   "nrc.cosmetics.ui.cancel" : "CANCEL",
   "nrc.cosmetics.ui.confirm_buy" : "PURCHASE",
   "nrc.cosmetics.ui.create_outfit" : "\uD83D\uDC55 CREATE OUTFIT",
