@@ -210,6 +210,7 @@
   "nrc.ui.modules.button.tooltip.apply_all" : "Applies the changes globally",
   "nrc.ui.modules.value.apiKey" : "API Key",
   "nrc.ui.modules.value.transparentPlayers" : "Transparent Players",
+  "nrc.ui.modules.value.flyBoost" : "Fly Boost",
   "nrc.ui.modules.value.armorOpacity" : "Armor Opacity",
   "nrc.ui.modules.value.async" : "Async",
   "nrc.ui.modules.value.background" : "Background",
