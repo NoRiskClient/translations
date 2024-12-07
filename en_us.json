@@ -344,6 +344,11 @@
   "nrc.ui.modules.value.cancelmovement": "Cancel Movement",
   "nrc.ui.modules.value.disablecapes": "Disable Capes",
   "nrc.ui.modules.value.disableemotes": "Disable Emotes",
+  "nrc.ui.modules.value.threeDMode": "3D Mode",
+  "nrc.ui.modules.value.cancelMovement": "Cancel Movement",
+  "nrc.ui.modules.value.showGhostPiece": "Show Ghost Piece",
+  "nrc.ui.modules.value.funkyPonk": "Funky Mode",
+  "nrc.ui.modules.value.bestOf": "Best Of %s",
 
   "nrc.quest.description.collect_any_powerups": "Collect any of these %s powerups",
   "nrc.quest.description.collect_coins_on_train": "Collect %s coins while on the train",
