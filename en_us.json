@@ -325,7 +325,6 @@
   "nrc.ui.modules.value.vertical" : "Vertical",
   "nrc.ui.modules.value.weather" : "Weather",
   "nrc.ui.modules.value.width" : "Width",
-  "nrc.ui.modules.value.height": "Height",
   "nrc.ui.modules.value.zoomInDuration" : "Zoom In Duration",
   "nrc.ui.modules.value.zoomKey" : "Zoom Key",
   "nrc.ui.modules.value.zoomOutDuration" : "Zoom Out Duration",
