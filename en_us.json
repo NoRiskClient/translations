@@ -381,5 +381,7 @@
   "nrc.minigames.tips.mouse_wheel":"Press the mouse wheel to navigate the game",
   "nrc.minigames.tips.not_again":"[Don't show this again]",
 
-  "nrc.shop.label.plus_shop_item": "%s DAYS NRC+"
+  "nrc.shop.label.plus_shop_item": "%s DAYS NRC+",
+
+  "nrc.error.minigames.cannot_invite_self": "You cannot invite yourself"
 }
