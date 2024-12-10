@@ -332,6 +332,7 @@
   "nrc.ui.modules.value.zoomKey" : "Zoom Key",
   "nrc.ui.modules.value.zoomOutDuration" : "Zoom Out Duration",
   "nrc.ui.modules.value.renderCustomNameTag" : "Render Name Tag",
+  "nrc.ui.modules.value.renderCustomNameInChat" : "Render Name Tag In Chat",
   "nrc.ui.modules.value.showTips" : "Show Tips",
   "nrc.ui.modules.value.hideOtherCosmetics" : "Hide Other Cosmetics",
   "nrc.ui.modules.value.height": "Height",
