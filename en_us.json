@@ -351,6 +351,7 @@
   "nrc.ui.modules.value.funkyPonk": "Funky Mode",
   "nrc.ui.modules.value.bestOf": "Best Of %s",
   "nrc.ui.modules.value.disableIcon": "Disable Icon",
+  "nrc.ui.modules.value.cosmeticRenderDistance": "Cosmetic Renderdistance %s",
 
   "nrc.quest.description.collect_any_powerups": "Collect any of these %s powerups",
   "nrc.quest.description.collect_coins_on_train": "Collect %s coins while on the train",
