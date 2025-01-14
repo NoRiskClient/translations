@@ -393,5 +393,10 @@
 
   "nrc.shop.label.plus_shop_item": "%s DAYS NRC+",
 
-  "nrc.error.minigames.cannot_invite_self": "You cannot invite yourself"
+  "nrc.error.minigames.cannot_invite_self": "You cannot invite yourself",
+
+  "heroes.ability.condition.long.water_forming": "No water nearby!",
+  "heroes.ability.condition.long.healing": "Bend water first!",
+  "heroes.ability.condition.long.water_pillar": "Stay fully in water",
+  "heroes.katara.ability.water_pillar.too_far_away": "Out of Water Pillar range"
 }
