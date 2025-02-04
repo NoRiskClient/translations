@@ -194,6 +194,7 @@
   "nrc.friends.tooltip.ping_disabled" : "Ping disabled: %s",
   "nrc.friends.tooltip.ping_enabled" : "Ping enabled: %s",
   "nrc.friends.wheel.action.add_friend" : "Add Friend",
+  "nrc.friends.wheel.action.toggle_mute": "Toggle Mute",
   "nrc.friends.wheel.action.copy_cape" : "Copy Cape",
   "nrc.friends.wheel.action.remove_friend" : "Remove Friend",
   "nrc.friends.wheel.action.settings" : "Settings",
@@ -402,5 +403,9 @@
   "heroes.ability.condition.long.water_forming": "No water nearby!",
   "heroes.ability.condition.long.healing": "Bend water first!",
   "heroes.ability.condition.long.water_pillar": "Stay fully in water",
-  "heroes.katara.ability.water_pillar.too_far_away": "Out of Water Pillar range"
+  "heroes.katara.ability.water_pillar.too_far_away": "Out of Water Pillar range",
+
+  "nrc.voicechat.mute.successful": "Mute was succesful",
+  "nrc.voicechat.unmute.successful": "Unmute was succesful",
+  "nrc.voicechat.mute.error": "An error while muting occurred. Please try again"
 }
